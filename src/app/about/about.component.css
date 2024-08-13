@@ -1,0 +1,49 @@
+/* Navbar styles */
+.bg-orange {
+    background-color:green !important;
+    font-family:  Arial, Helvetica, sans-serif;
+}
+
+/* Card styles */
+.card-img-top {
+    height: 200px;
+    object-fit: contain;
+}
+
+.card-body {
+    padding: 24px;
+}
+
+.card-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.card-text {
+    margin-bottom: 16px;
+}
+
+.card-footer {
+    background-color: #f8f9fa;
+}
+.badge {
+    font-size: 0.9rem;
+}
+
+.text-warning {
+    color: rgba(0, 128, 0, 0.54); 
+}
+
+.text-info {
+    color: #17a2b8; 
+}
+
+.btn-primary {
+    background-color:green;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: darkgreen;
+}
